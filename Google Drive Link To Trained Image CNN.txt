@@ -1,0 +1,4 @@
+-Link to google drive containging the .h5 saved trained CNN model
+-There were some issues with trying to upload it to github
+
+https://drive.google.com/drive/folders/1NaZaGH4dTd4DgVHSf7YJ_YzH4Lep_kJG?usp=sharing
